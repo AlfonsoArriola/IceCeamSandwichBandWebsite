@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	font-family: 'Baloo', cursive;
+	font-size: 1.3em;
+}
+
+h1 {
+	font-family: 'Shrikhand', cursive;
+	font-size: 4em;
+	letter-spacing: .4rem;
+}
+
+#top{
+	
+	background-color: brown;
+	text-align: center;
+	color: pink;
+	padding: 3rem;
+}
+
+#middle{
+   padding: 5rem;
+   background-color: white;
+   color: brown;
+   height: 25rem;
+
+  
+}
+
+#bottom {
+	padding: 7rem;
+	background-color: pink;
+	color: black;
+	text-align: center;
+}
+img{
+	height: 7rem;
+}
+
+ul {
+    list-style-image: url('images/bulleticecream.png');
+    margin-left: 5rem;
+
+}
+
+li{
+	margin-left: 1rem;
+	text-align: left;
+}
+
+
+a {
+	color:coral;
+	font-size: 3rem;
+}
+/*  **************            Contact Page   ********************   */
+
+.bandpic {
+    position: relative;
+   
+}
+
+.bandmember  {
+	float: left;
+	height: 15rem;
+	width: 15rem;
+	margin: 1.5rem;
+	object-fit: cover;
+	border-radius: 2rem;
+	border: 5px brown solid;
+
+}
+
+
+
